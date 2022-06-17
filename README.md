@@ -1,6 +1,6 @@
 # Real Python Exercises
 
-This is the repo to write [_Realpython_ codes](https://realpython.com).    
+This is the repo to write [_Real Python_](https://realpython.com) codes.    
 Mostly, the codes are for Python Web Development (**Flask**).    
    
 In order to run the code, we need to create a __virtual environment__, as follows:     
